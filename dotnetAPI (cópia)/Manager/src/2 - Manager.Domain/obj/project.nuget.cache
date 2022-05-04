@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WJ3S4BOVjSks28jLFbtce9JdjB07lnVsWMZjeqk6nBXo70335D1ZHliJ4BD7/Ox34W4D211xA1ISvDHz+1g1Q==",
+  "success": true,
+  "projectFilePath": "/home/informatica/dotnetAPI/Manager/src/Manager.Domain/Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/informatica/.nuget/packages/fluentvalidation/11.0.0/fluentvalidation.11.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
